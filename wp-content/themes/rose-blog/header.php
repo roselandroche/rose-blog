@@ -11,6 +11,6 @@
             <div>
                 <!-- logo could be added here -->
                 <h1><a href="<?php echo esc_url(site_url()); ?>">Rose's Blog</a></h1>
-                <!-- search icon could be added here -->
+                <!-- search a tag and icon could be added here -->
             </div>
         </header>
